@@ -1,34 +1,27 @@
-# Hi, I'm Hadil Derouich 👋
+# About Me:
+Hi, I'm Hadil Derouich 👋<br>I'm a Computer Science Engineer specialized in Business Intelligence, with hands-on experience across Data Engineering, Data Analytics, Business Intelligence, AI/ML, GenAI, and Full-Stack Development.<br><br>I enjoy building data-driven and intelligent applications, from ETL pipelines and Power BI dashboards to LLM/RAG workflows and full-stack applications.<br><br>Education<br>Engineering Degree in Computer Science – Business Intelligence<br><br>📍 Tunis, Tunisia 🌍 Open to international opportunities and relocation<br><br>Contact<br>Phone: +216 95 452 756 Email: hadil.derouich@esprit.tn Personal Email: derouichhadil30@gmail.com<br><br>💡 Interests<br>Data & Business Intelligence<br>Artificial Intelligence & GenAI<br>Data Analytics<br>Software Engineering<br>Continuous Learning<br>🤓 Fun Fact<br>I can spend hours learning about a technology just because I became curious about how it works.<br><br>Let's Connect<br>I'm always interested in connecting with people working on data, AI, software engineering, and innovative technology projects.
 
-I'm a **Computer Science Engineer specialized in Business Intelligence**, with hands-on experience across **Data Engineering, Data Analytics, Business Intelligence, AI/ML, GenAI, and Full-Stack Development**.
 
-I enjoy building data-driven and intelligent applications, from **ETL pipelines and Power BI dashboards** to **LLM/RAG workflows and full-stack applications**.
+## Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hadil.derouich.244220) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hadil_derouich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hadil-derouich-3669481ba/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@derouich hadil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derouichhadil30@gmail.com) 
 
-### Education
+# Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hadilderouich&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=hadilderouich&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hadilderouich&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-**Engineering Degree in Computer Science – Business Intelligence**
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hadilderouich&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-📍 Tunis, Tunisia
-🌍 Open to international opportunities and relocation
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Contact
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hadilderouich&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**Phone:** +216 95 452 756
-**Email:** [hadil.derouich@esprit.tn](mailto:hadil.derouich@esprit.tn)
-**Personal Email:** [derouichhadil30@gmail.com](mailto:derouichhadil30@gmail.com)
+---
+[![](https://komarev.com/ghpvc/?username=hadilderouich&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💡 Interests
-
-* Data & Business Intelligence
-* Artificial Intelligence & GenAI
-* Data Analytics
-* Software Engineering
-* Continuous Learning
-
-### 🤓 Fun Fact
-
-I can spend hours learning about a technology just because I became curious about how it works.
-
-### Let's Connect
-
-I'm always interested in connecting with people working on **data, AI, software engineering, and innovative technology projects**.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
